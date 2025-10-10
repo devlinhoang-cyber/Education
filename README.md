@@ -1,7 +1,7 @@
 # Project Title (This is a template README.md file that you can adapt to your project)
 
 > A brief description of what the project does and its purpose.
-
+This project aims to address the educational inequality in US high schools based on ACT and SAT scores.
 ---
 
 ## Project Overview
@@ -28,7 +28,7 @@ Provide a short and concise overview of the project. Mention the problem it solv
 
 ## Data
 
-- **Source:** Link to the data source(s) 
+- **Source:** : 
 - **Description:** Brief overview of the dataset features, size, and format
 - **License:** (if applicable)
 
