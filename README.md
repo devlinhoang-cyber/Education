@@ -1,4 +1,4 @@
-# Project Title (This is a template README.md file that you can adapt to your project)
+#Education Project
 
 > A brief description of what the project does and its purpose.
 This project aims to address the educational inequality in US high schools based on ACT and SAT scores.
